@@ -1,2 +1,0 @@
-# PinecrestWiki
-Version Control
